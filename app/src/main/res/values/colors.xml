@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cores de Layout-->
+    <color name="layout">#231F27</color>
+    <color name="layout1">#151515</color>
+    <color name="layout2">#1B1A1A</color>
+
+    <!--Cores de Texto-->
+    <color name="teal_200">#C10303</color>
+    <color name="teal_700">#750404</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--BackGrounds -->
+    <color name="Back1">#D8D5FF</color>
+    <color name="Back2">#455CB8</color>
+    <color name="Back3">#354F6C</color>
+    <color name="Back4">#2D4650</color>
+    <color name="BackFlash">#BCBCBC</color>
+    <color name="BackFlash2">#17366A</color>
+    <color name="BackFlash3">#063149</color>
+</resources>

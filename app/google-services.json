@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "450120600031",
+    "project_id": "art-figures",
+    "storage_bucket": "art-figures.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450120600031:android:e6d336d346abfc7d7c9c6a",
+        "android_client_info": {
+          "package_name": "com.example.artfigure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450120600031-ef2om7nsio1gg3bv7otrd35o5u99l804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBauWgZxZny79a9bDnX48EiOfy_QYf7KPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450120600031-ef2om7nsio1gg3bv7otrd35o5u99l804.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450120600031:android:9c2e17814ee5ee947c9c6a",
+        "android_client_info": {
+          "package_name": "com.example.logincadastroeditperfil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450120600031-ef2om7nsio1gg3bv7otrd35o5u99l804.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBauWgZxZny79a9bDnX48EiOfy_QYf7KPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450120600031-ef2om7nsio1gg3bv7otrd35o5u99l804.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
